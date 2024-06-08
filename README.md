@@ -1,4 +1,4 @@
-# 04_01_KDT-miniproject_matplotlib_
+# KDT Pandas, Matplotlib 수업 과정 미니프로젝트
 
 ### 📝 주제 - 사이버 폭력
 
@@ -28,7 +28,7 @@
 - **성인 가해자 :**
     - **가해경험률 최고치 기록 집단**
         
-        ![가해경험률 최고치](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/09e4e1c8-a31d-41e9-aef1-d7f813b31e31/Untitled.png)
+        ![가해경험률 최고치]("C:\Users\KDP-48\Desktop\STUDY\KDT_PANDAS_MATPLOTLIB\mini_project\그래프\PPT_CAPTURE\Untitled (2).png")
         
         - 직업군 : 1) 사무직 2) 무직
         - 소득별 : 1) 월평균 가구 소득 400만원 이상 ~ 500만원 미만 구간 2)500만원 이상 600만원 미만 구간
