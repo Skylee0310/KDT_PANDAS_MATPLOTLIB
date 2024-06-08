@@ -27,28 +27,18 @@
 
 - **성인 가해자 :**
     - **가해경험률 최고치 기록 집단**
-        
-        <img src="/mini_project/그래프/PPT_CAPTURE/Untitled (2).png">
+
         
         - 직업군 : 1) 사무직 2) 무직
         - 소득별 : 1) 월평균 가구 소득 400만원 이상 ~ 500만원 미만 구간 2)500만원 이상 600만원 미만 구간
         - **가해 동기** :
-            
-            ![가해 동기](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/2d7ec835-1fc5-4ab5-9cc2-df24b7dbf5fa/Untitled.png)
+
             
             - 1) 재미나 장난으로 스트레스 해소를 위해 (100 만원 이상~200만원 미만 구간)
             - 2) 상대방이 먼저 그런 행동을 해서 보복하기 위해 (700만원 이상 구간 → 100만원 이상 200만원 미만 구간)
     - 가해 대상 : 전혀 모르는 사람 비율 압도적
     
-    ![가해 대상](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/306eb38b-97e5-4e06-be5e-46e33792c888/Untitled.png)
-    
     - 가해 후 심리 상태 :
-        
-        ![심리 상태 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/ee0e04ea-d0f8-40fd-9616-b900eaa40af5/Untitled.png)
-        
-        ![심리 상태 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/d9cb44e7-1d17-458c-a1fc-916e9e8ca88a/Untitled.png)
-        
-        ![심리 상태 3](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/f60d097c-744d-4ac8-84c0-0c142760a235/Untitled.png)
         
         - 정당하다
             - 주부 집단 →  무직/기타 집단
@@ -65,8 +55,6 @@
 - **학생 가해자 :**
 - 가해경험율
     
-    ![가해경험율](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/77a05275-49d1-4571-aa71-8bcbe653b027/Untitled.png)
-    
     - 학업 성적별
         
         ⇒ 성적이 낮을 수록 비율 상승, 그러나 큰 차이는 없음.
@@ -78,9 +66,6 @@
     - 가해 동기
         - 보복 → 성적이 중위권인 경우, 가정 형편이 상위권인 경우의 비율 高
         - 특별한 이유 없음 → 성적이 하위권인 경우, 가정 형편이 하위권인 경우 비율 高
-       
-        
-        ![가정 형편별](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bef47d6-69c9-486a-bacc-b7084d4e7ad2/e5d91757-1ab2-4d7d-9104-d076d1d3810e/Untitled.png)
 
 
       - 가해 후 심리 상태
