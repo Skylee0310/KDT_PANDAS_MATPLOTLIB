@@ -28,18 +28,25 @@
 - **성인 가해자 :**
     - **가해경험률 최고치 기록 집단**
 
-        
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/d062a9fb-f49c-44d3-8324-21a3c2fed4c4)
+
         - 직업군 : 1) 사무직 2) 무직
         - 소득별 : 1) 월평균 가구 소득 400만원 이상 ~ 500만원 미만 구간 2)500만원 이상 600만원 미만 구간
         - **가해 동기** :
-
-            
-            - 1) 재미나 장난으로 스트레스 해소를 위해 (100 만원 이상~200만원 미만 구간)
-            - 2) 상대방이 먼저 그런 행동을 해서 보복하기 위해 (700만원 이상 구간 → 100만원 이상 200만원 미만 구간)
-    - 가해 대상 : 전혀 모르는 사람 비율 압도적
+      
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/282ae048-6571-40f0-94ca-c1bcfc552592)      
+          - 재미나 장난으로 스트레스 해소를 위해 (100 만원 이상~200만원 미만 구간)
+          - 상대방이 먼저 그런 행동을 해서 보복하기 위해 (700만원 이상 구간 → 100만원 이상 200만원 미만 구간)
+      
+    - 가해 대상 :
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/16a88b84-a97d-450d-9652-0482f6f2ee7f)
+          - 전혀 모르는 사람 비율 압도적
     
     - 가해 후 심리 상태 :
-        
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/44a26158-83e2-46ad-b305-6ab382968d91)
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/3c263aa6-b227-411e-8c0a-58fb91f46fd1)
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/cecfd637-01e5-422d-a707-e50106c8b5a3)
+
         - 정당하다
             - 주부 집단 →  무직/기타 집단
             - 700만원 이상 → 100만원 미만
@@ -54,7 +61,8 @@
     
 - **학생 가해자 :**
 - 가해경험율
-    
+    ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/d835dba7-ccc5-4554-bdb1-8e6791eefaea)
+
     - 학업 성적별
         
         ⇒ 성적이 낮을 수록 비율 상승, 그러나 큰 차이는 없음.
@@ -64,12 +72,16 @@
         ⇒ 중위층 집단 가장 높음. 큰 차이는 없음.
         
     - 가해 동기
+      ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/0f6e5bba-c7bc-472c-875a-99ae1175db40)
+
         - 보복 → 성적이 중위권인 경우, 가정 형편이 상위권인 경우의 비율 高
         - 특별한 이유 없음 → 성적이 하위권인 경우, 가정 형편이 하위권인 경우 비율 高
 
 
       - 가해 후 심리 상태
-    
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/4eea7d8c-c91d-42f2-9687-a20f71add387)
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/f4e6ad29-ddbe-4c1f-9c9c-e4ead94dbfb8)
+        ![image](https://github.com/Skylee0310/KDT_PANDAS_MATPLOTLIB/assets/155412049/d890d163-5121-4789-bee0-939941dd0919)
         ※ 성인에 비해 ‘정당하지 않다’ 비율 高
         
         - 문제가 생길 것 같아 걱정이 되었다
