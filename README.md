@@ -28,7 +28,7 @@
 - **성인 가해자 :**
     - **가해경험률 최고치 기록 집단**
         
-        ![가해경험률 최고치](mini_project/그래프/PPT_CAPTURE/Untitled (2).png)
+        <img src="/mini_project/그래프/PPT_CAPTURE/Untitled (2).png">
         
         - 직업군 : 1) 사무직 2) 무직
         - 소득별 : 1) 월평균 가구 소득 400만원 이상 ~ 500만원 미만 구간 2)500만원 이상 600만원 미만 구간
